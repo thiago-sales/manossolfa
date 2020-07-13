@@ -1,4 +1,4 @@
-//link do mmodelo no teachable machine:       https://teachablemachine.withgoogle.com/models/twp5j_f8b/
+//link do mmodelo no teachable machine:       https://teachablemachine.withgoogle.com/models/7klrpulwu/
 
 
 //<div>Teachable Machine Image Model - p5.js and ml5.js</div>
@@ -19,7 +19,7 @@ let video;
 let label = "waiting...";
 // The classifier
 let classifier;
-let modelURL = 'https://teachablemachine.withgoogle.com/models/twp5j_f8b/';
+let modelURL = 'https://teachablemachine.withgoogle.com/models/7klrpulwu/';
 
 // STEP 1: Load the model!
 function preload() {
